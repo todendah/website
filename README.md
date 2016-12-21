@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Herzlich Willkommen!
 
-You can use the [editor on GitHub](https://github.com/todendah/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Auf dieser kleinen Website möchte ich mich Ihnen kurz vorstellen!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Persönliche Angaben
 
-### Markdown
+### Meine Hobbys
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Freifunk
 
-```markdown
-Syntax highlighted code block
+Seit 2014 bin ich bei Freifunker. Zunächst passiv in Paderborn beim heutigen Freifunk Hochstift, nach meinem Umzug nach Münster aktiv bei Freifunk Münster/Münsterland.
 
-# Header 1
-## Header 2
-### Header 3
+#### Junge Europäische Föderalisten
 
-- Bulleted
-- List
+Seit Anfang 2016 bin ich Mitglied bei den Jungen Europäischen Föderalisten Nordrhein-Westfalen e.V. (JEF NRW). Innerhalb eines Jahres habe ich dabei viel erlebt, unter anderem die Übergabe einer Rolle mit Statements von BürgerInnen, warum Schengen-Grenzen offen bleiben müssen, im Rahmen der #DontTouchMySchengen-Aktion der JEF Europe. Desweiteren war ich im Oktober 2016 mit JEF NRW im Rahmen einer Studienreise im Kosovo, was ein sehr bewegendes Ereignis war.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/todendah/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<!--The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.-->
